@@ -7,8 +7,6 @@ profile:
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+Dylan Hoven is a currently enrolled masters student at the University of Central Florida. His research interests include the work of Marcel Proust, [the ideas of Gilles Deleuze](https://deleuze.cla.purdue.edu/seminars), and the historical context of film noir. 
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
-
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+Dylan graduated from the University of North Florida in 2021 with bachelor's degrees in History and English.
