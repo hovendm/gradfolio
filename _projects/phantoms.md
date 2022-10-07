@@ -4,7 +4,9 @@ title: Phantoms of Masculinity
 description: Post-War Gender in High Noon and The Third Man
 ---
 
-## Post-War Gender in High Noon and The Third Man
+## Post-War Gender in *High Noon* and *The Third Man*
+
+![film poster](/gradfolio/assets/images/HighNoon.jpg "High Noon Poster") ![film cover](/gradfolio/assets/images/TheThirdMan.jpg "The Third man cover")
 
 While the western is a long standing genre of American film-making, the presence of the western in the aftermath of World War II coincided with another, newer form of American filmmaking: film noir. 
 
