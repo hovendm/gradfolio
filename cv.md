@@ -1,7 +1,7 @@
 ---
 layout: about
-permalink: /cv/
-title: CV
+permalink: /resume/
+title: Resume
 published: true
 ---
 
