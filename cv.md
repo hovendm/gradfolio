@@ -8,15 +8,15 @@ published: true
 
 Dylan Hoven
 
--   8225 Caraway Drive
+8225 Caraway Drive
 
-    Orlando, FL 32819
+Orlando, FL 32819
 
 813-449-3100
 
 hovendm@gmail.com
 
-Education
+### Education ###
 
 2018-2021 University of North Florida, Jacksonville Florida
 
@@ -28,7 +28,7 @@ Education
 
 2014-2015 Howard W. Blake High School, Tampa, Florida
 
-Academic Achievements
+### Academic Achievements ###
 
 2018-2021 UNF Hicks honors college student
 
@@ -36,7 +36,7 @@ Academic Achievements
 
 Beginner French
 
-Work Experience
+### Work Experience ###
 
 2022 Hard Rock Hotel at Universal Studios
 
@@ -50,23 +50,19 @@ Work Experience
 
 -   Wal-mart merchandising vendor
 
--   Experience stocking, setting modulars, and placing signing across
-    > multiple departments
+-   Experience stocking, setting modulars, and placing signing across multiple departments
 
 2018-2019 Luther Springs Camp and Retreat Center
 
--   Worked as a summer camp counselor, supervising children in
-    > attendance
+-   Worked as a summer camp counselor, supervising children in attendance
 
-Volunteer experience
+### Volunteer experience ###
 
 2016-2018 Volunteering at Give Kids the World
 
--   Provided an immersive experience for families throughout activities
-    > across the various facilities
+-   Provided an immersive experience for families throughout activities across the various facilities
 
--   Staffed various accommodations for guests, primarily food & beverage
-    > and entertainment
+-   Staffed various accommodations for guests, primarily food & beverage and entertainment
 
 2017 Southwest Middle School Band
 
