@@ -8,10 +8,6 @@ published: true
 
 Dylan Hoven
 
-8225 Caraway Drive
-
-Orlando, FL 32819
-
 813-449-3100
 
 hovendm@gmail.com
